@@ -26,8 +26,6 @@ status:
 
 I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. With a strong foundation in Computer Engineering, I specialize in solving algorithmic challenges using Data Structures & Algorithms (DSA), exploring data science methodologies to extract actionable insights, and building optimized machine learning models. I enjoy architecting scalable backend systems, writing optimized SQL queries, and exploring the frontiers of Generative AI.
 
-📄 **[View My Resume](./resume.pdf)**
-
 ---
 
 ## 🚀 Tech Radar
@@ -81,7 +79,6 @@ I'm a software developer and machine learning enthusiast who loves bridging the 
   <a href="https://www.linkedin.com/in/hardik-abrol" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hardikabrol8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Hardikabrol8" target="_blank"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="./resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 <br />
