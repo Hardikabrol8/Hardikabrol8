@@ -13,10 +13,11 @@ identity:
   name: Hardik Abrol
   role: Computer Engineering Student (Class of 2027)
   institution: Thapar Institute of Engineering and Technology
-  focus: Machine Learning, Deep Learning, & GenAI
+  focus: Machine Learning, Deep Learning, GenAI, & Data Structures & Algorithms (DSA)
 
 status:
   current_pursuits:
+    - Solving Data Structures & Algorithms (DSA) problems in C++ & Python
     - Specializing in Generative AI with LLMs (DeepLearning.AI & AWS certified)
     - Orchestrating LLM agents & optimizing RAG pipelines
     - Building robust, explainable ML models (SHAP)
