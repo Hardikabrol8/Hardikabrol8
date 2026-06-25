@@ -24,7 +24,7 @@ status:
     - Building robust, explainable ML models (SHAP)
 ```
 
-I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. I enjoy developing backend systems, writing clean SQL queries, and exploring the possibilities of generative AI.
+I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. With a strong foundation in Computer Engineering, I specialize in solving algorithmic challenges using Data Structures & Algorithms (DSA), exploring data science methodologies to extract actionable insights, and building optimized machine learning models. I enjoy architecting scalable backend systems, writing optimized SQL queries, and exploring the frontiers of Generative AI.
 
 📄 **[View My Resume](./resume.pdf)**
 
