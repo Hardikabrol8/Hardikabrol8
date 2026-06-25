@@ -12,7 +12,7 @@
 identity:
   name: Hardik Abrol
   role: Computer Engineering Student (Class of 2027)
-  institution: Thapar Institute of Engineering and Technology (CGPA: 7.62/10)
+  institution: Thapar Institute of Engineering and Technology
   focus: Machine Learning, Deep Learning, & GenAI
 
 status:
