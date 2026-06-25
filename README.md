@@ -11,19 +11,22 @@
 ```yaml
 identity:
   name: Hardik Abrol
-  role: Computer Engineering Student (Class of 2027)
+  role: Computer Engineering Student (Class of 2027) & Web Developer Intern @ GSTech
   institution: Thapar Institute of Engineering and Technology
   focus: Machine Learning, Deep Learning, GenAI, & Data Structures & Algorithms (DSA)
 
 status:
   current_pursuits:
+    - Web Developer Intern at GSTech Technology Pvt Ltd
     - Solving Data Structures & Algorithms (DSA) problems in C++ & Python
-    - Specializing in Generative AI with LLMs (DeepLearning.AI & AWS certified)
+    - Deep Learning & Generative AI practitioner (NVIDIA, DeepLearning.AI & AWS certified)
     - Orchestrating LLM agents & optimizing RAG pipelines
     - Building robust, explainable ML models (SHAP)
 ```
 
 I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. I enjoy developing backend systems, writing clean SQL queries, and exploring the possibilities of generative AI.
+
+📄 **[View My Resume](./resume.pdf)**
 
 ---
 
@@ -78,6 +81,7 @@ I'm a software developer and machine learning enthusiast who loves bridging the 
   <a href="https://www.linkedin.com/in/hardik-abrol" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hardikabrol8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Hardikabrol8" target="_blank"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="./resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 <br />
