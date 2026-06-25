@@ -1,108 +1,86 @@
-<!-- HEADER -->
-<h1 align="center">Hey, I'm <span style="color:#00F2FE">Hardik Abrol</span> 👋</h1>
+# ⚡ Welcome to my Digital Space! I'm Hardik Abrol
 
 <p align="center">
-  <strong>Computer Engineering Student • Machine Learning Enthusiast • Generative AI Practitioner</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&background=101010&width=500&center=true&vCenter=true&lines=Computer+Engineering+Student;Machine+Learning+Explorer;Generative+AI+Builder;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
 
-<!-- COOL GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21vcWtxMzJxajdvajJ1NHdpY2RpaWh0bHhqeHRucWFzMGt4aGxsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
-</p>
+---
 
-<!-- SOCIAL ICONS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/hardik-abrol">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
-  </a>
-  <a href="mailto:hardikabrol8@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45px"/>
-  </a>
-  <a href="https://github.com/Hardikabrol8">
-    <img src="https://skillicons.dev/icons?i=github" width="45px"/>
-  </a>
-</p>
+## 🔮 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
-</p>
+```yaml
+identity:
+  name: Hardik Abrol
+  role: Computer Engineering Student (Class of 2027)
+  institution: Thapar Institute of Engineering and Technology (CGPA: 7.62/10)
+  focus: Machine Learning, Deep Learning, & GenAI
 
-## About Me
-- 🎓 **Computer Engineering** student at **Thapar Institute of Engineering and Technology** (Class of 2027)
-- 🚀 Specialized in **Generative AI with Large Language Models** (DeepLearning.AI & AWS certified)
-- 💡 Interested in Machine Learning, Deep Learning, and Full-Stack development
-- 🛠 Crafting robust backends and machine learning pipelines using Python, FastAPI, and databases
-- 🔬 Passionate about model explainability (SHAP) and Multi-Criteria Decision Making (TOPSIS) systems
+status:
+  current_pursuits:
+    - Specializing in Generative AI with LLMs (DeepLearning.AI & AWS certified)
+    - Orchestrating LLM agents & optimizing RAG pipelines
+    - Building robust, explainable ML models (SHAP)
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
-</p>
+I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. I enjoy developing backend systems, writing clean SQL queries, and exploring the possibilities of generative AI.
 
-## Tech Stack
+---
 
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js," />
-</p>
+## 🚀 Tech Radar
 
-### **AI / ML / Data**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-FF9A00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-</p>
+### 💻 Core & Scripting
+<a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
-### **Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
-</p>
+### 🧠 AI / ML Engine Room
+<a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href="https://huggingface.co" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge" /></a>
+<a href="https://langchain.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A7%AE%20LangChain-000000?style=for-the-badge" /></a>
+<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+### 🛠️ Backend & Databases
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="https://flask.palletsprojects.com" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+<a href="https://mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
-### **DevOps / Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
-</p>
+## 📊 Git Insights & Analytics
 
-<!-- contribution snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hardikabrol8/Hardikabrol8/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hardikabrol8&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikabrol8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikabrol8&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## GitHub Stats
+---
+
+## ⚡ Connect with Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardikabrol8&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hardikabrol8&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikabrol8&layout=compact" height="200"/>
+  <a href="https://www.linkedin.com/in/hardik-abrol" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hardikabrol8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Hardikabrol8" target="_blank"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
-</p>
-
-## ⚡ Current Focus
-- Deepening knowledge in Multi-agent AI systems (LangChain/LangGraph)
-- Exploring advanced model optimization and explainability techniques
-- Enhancing database indexing and concurrency handling
+<br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250px">
-</p>
-
-<p align="center">
-  <b>Thanks for visiting! Let's build something amazing together 🚀</b>
+  <i>"The best way to predict the future is to invent it."</i>
 </p>
