@@ -1,87 +1,114 @@
-# ⚡ Welcome to my Digital Space! I'm Hardik Abrol
+# Hi, I'm Hardik Abrol
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&background=101010&width=500&center=true&vCenter=true&lines=Computer+Engineering+Student;Machine+Learning+Explorer;Generative+AI+Builder;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full-Stack+%2B+ML+Builder;FastAPI+%7C+React+%7C+Next.js+%7C+Streamlit;Turning+ideas+into+clean%2C+usable+software" alt="Typing introduction for Hardik Abrol" />
+</p>
+
+<p align="center">
+  <a href="https://hardik-abrol-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" />
+  </a>
+  <a href="https://www.linkedin.com/in/hardik-abrol">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:hardikabrol8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hardik Abrol" />
+  </a>
 </p>
 
 ---
 
-## 🔮 About Me
+## About Me
 
 ```yaml
-identity:
-  name: Hardik Abrol
-  role: Computer Engineering Student (Class of 2027) & Web Developer Intern @ GSTech
-  institution: Thapar Institute of Engineering and Technology
-  focus: Machine Learning, Deep Learning, GenAI, & Data Structures & Algorithms (DSA)
-
-status:
-  current_pursuits:
-    - Web Developer Intern at GSTech Technology Pvt Ltd
-    - Solving Data Structures & Algorithms (DSA) problems in C++ & Python
-    - Deep Learning & Generative AI practitioner (NVIDIA, DeepLearning.AI & AWS certified)
-    - Orchestrating LLM agents & optimizing RAG pipelines
-    - Building robust, explainable ML models (SHAP)
+name: Hardik Abrol
+role: Computer Engineering Student, Class of 2027
+institution: Thapar Institute of Engineering and Technology
+current_focus:
+  - Full-stack web development
+  - Machine learning and predictive analytics
+  - Generative AI and RAG workflows
+  - Data structures, algorithms, and backend systems
 ```
 
-I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. With a strong foundation in Computer Engineering, I specialize in solving algorithmic challenges using Data Structures & Algorithms (DSA), exploring data science methodologies to extract actionable insights, and building optimized machine learning models. I enjoy architecting scalable backend systems, writing optimized SQL queries, and exploring the frontiers of Generative AI.
+I build software across the stack, from clean web interfaces to Python backends and machine learning workflows. My repositories span full-stack apps, Streamlit ML tools, browser extensions, predictive analytics notebooks, SQL/database systems, and utility-focused Python services.
 
 ---
 
-## 🚀 Tech Radar
-
-### 💻 Core & Scripting
-<a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-
-### 🧠 AI / ML Engine Room
-<a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-<a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href="https://huggingface.co" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge" /></a>
-<a href="https://langchain.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A7%AE%20LangChain-000000?style=for-the-badge" /></a>
-<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-
-### 🛠️ Backend & Databases
-<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-<a href="https://flask.palletsprojects.com" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-<a href="https://mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-
----
-
-## 📊 Git Insights & Analytics
+## Tech Stack
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hardikabrol8&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikabrol8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikabrol8&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+
+### Backend and Apps
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
+<img src="https://img.shields.io/badge/Browser_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browser extensions" />
+
+### Machine Learning and Data
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+
+### Databases, DevOps and Tooling
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
 ---
 
-## ⚡ Connect with Me
+## Current Direction
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hardik-abrol" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hardikabrol8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Hardikabrol8" target="_blank"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Building-Full--Stack%20ML%20Apps-38BDF8?style=flat-square" alt="Building full-stack ML apps" />
+  <img src="https://img.shields.io/badge/Learning-Agentic%20AI%20%26%20RAG-8B5CF6?style=flat-square" alt="Learning agentic AI and RAG" />
+  <img src="https://img.shields.io/badge/Practicing-DSA%20in%20C++%20%26%20Python-22C55E?style=flat-square" alt="Practicing DSA in C++ and Python" />
 </p>
 
-<br />
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hardikabrol8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hardik Abrol GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikabrol8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hardik Abrol top languages" />
+  <br />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikabrol8&theme=tokyonight&hide_border=true" alt="Hardik Abrol GitHub streak stats" />
+</div>
+
+---
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
