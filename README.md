@@ -1,23 +1,25 @@
 # ⚡ Welcome to my Digital Space! I'm Hardik Abrol
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&background=101010&width=600&center=true&vCenter=true&lines=Computer+Engineering+Student;Full-Stack+%2B+ML+Builder;Machine+Learning+Explorer;Generative+AI+Builder;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&background=101010&width=600&center=true&vCenter=true&lines=Computer+Engineering+Student;Full-Stack+%2B+ML+Builder;Machine+Learning+Explorer;Generative+AI+Builder;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+</p>
 
 ## 🔮 About Me
 
 ```yaml
 identity:
   name: Hardik Abrol
-  role: Computer Engineering Student (Class of 2027) & Web Developer Intern @ GSTech
+  role: Computer Engineering Student (Class of 2027) & Web Developer Intern @ GSTech (AdSpyder)
   institution: Thapar Institute of Engineering and Technology
   focus: Machine Learning, Deep Learning, GenAI, Full-Stack Development, & DSA
 
 status:
   current_pursuits:
-    - Web Developer Intern at GSTech Technology Pvt Ltd
+    - Web Developer Intern at GSTech Technology Pvt Ltd (AdSpyder)
     - Building full-stack apps with React, Next.js, FastAPI, Flask & Streamlit
     - Solving Data Structures & Algorithms (DSA) problems in C++ & Python
     - Deep Learning & Generative AI practitioner (NVIDIA, DeepLearning.AI & AWS certified)
@@ -25,9 +27,15 @@ status:
     - Building robust, explainable ML models with scikit-learn, CatBoost & SHAP
 ```
 
-I'm a software developer and machine learning enthusiast who loves bridging the gap between intelligent algorithms and solid software engineering. With a strong foundation in Computer Engineering, I specialize in solving algorithmic challenges using Data Structures & Algorithms (DSA), exploring data science methodologies to extract actionable insights, and building optimized machine learning models. I enjoy architecting scalable backend systems, writing optimized SQL queries, crafting clean web experiences, and exploring the frontiers of Generative AI.
+I like taking a project end-to-end — from a rough idea, to a trained model or a working API, to something deployed and actually usable. Outside of coursework and my internship, that habit shows up as a handful of shipped side projects (see below) rather than just tutorials.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="320" alt="coding illustration" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+</p>
 
 ## 🚀 Tech Radar
 
@@ -69,7 +77,63 @@ I'm a software developer and machine learning enthusiast who loves bridging the 
 <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 <a href="https://developer.chrome.com/docs/extensions" target="_blank"><img src="https://img.shields.io/badge/Browser_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browser Extensions" /></a>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+</p>
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3><a href="https://github.com/Hardikabrol8/Athlyt" target="_blank">🏋️ Athlyt</a></h3>
+      <p><b>AI-powered fitness coaching platform</b> — personalised workout plans, nutrition tracking, progress analytics, and session management. My flagship full-stack + ML build, complete with 220 passing backend tests and CI on every push.</p>
+      <p>
+        <code>Next.js 15</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>SQLAlchemy</code> · <code>scikit-learn</code>
+      </p>
+      <a href="https://athlyt-taupe.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://athlyt-backend.onrender.com/docs" target="_blank"><img src="https://img.shields.io/badge/API%20Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+      <a href="https://github.com/Hardikabrol8/Athlyt/actions/workflows/backend-ci.yml" target="_blank"><img src="https://github.com/Hardikabrol8/Athlyt/actions/workflows/backend-ci.yml/badge.svg" /></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hardikabrol8/Mental_Health_Predictor" target="_blank">🧠 Mental Health Predictor</a></h3>
+      <p>An interactive Streamlit ML dashboard that predicts mental health risk from lifestyle and survey data.</p>
+      <a href="https://mentalhealthpredictor07.streamlit.app" target="_blank"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hardikabrol8/HAR_project" target="_blank">🏃 Human Activity Recognition</a></h3>
+      <p>Classifies daily human activities (walking, sitting, standing, laying) from smartphone accelerometer & gyroscope time-series data (UCI dataset).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hardikabrol8/youtube_mashup" target="_blank">🎵 YouTube Song Mashup</a></h3>
+      <p>Generates a custom audio mashup from any YouTube artist search — available as both a CLI tool and a responsive web service with real-time progress and email delivery.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hardikabrol8/pagevault-singlefile-extension" target="_blank">🧩 PageVault</a></h3>
+      <p>A Chrome Manifest V3 extension that saves any web page as a single self-contained HTML file, inlining assets via the DOM.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Hardikabrol8/reddit-untranslate-extension" target="_blank">🌍 Reddit Untranslate</a></h3>
+      <p>A Chrome extension that strips forced auto-translation parameters from Reddit URLs, restoring the original page language.</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/Hardikabrol8?tab=repositories" target="_blank"><i>→ See all repositories</i></a></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+</p>
 
 ## 📊 Git Insights & Analytics
 
@@ -77,22 +141,36 @@ I'm a software developer and machine learning enthusiast who loves bridging the 
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hardikabrol8&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" />
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikabrol8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="./profile/top-langs.svg" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikabrol8&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=Hardikabrol8&theme=tokyonight&hide_border=true" alt="Streak Stats" />
       </td>
     </tr>
   </table>
 </div>
 
----
+<p align="center"><sub>Stats & top languages are generated daily by <a href="./.github/workflows/grs.yml">GitHub Actions</a> and committed as static SVGs, so they don't depend on any third-party server's uptime.</sub></p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hardikabrol8/Hardikabrol8/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hardikabrol8/Hardikabrol8/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hardikabrol8/Hardikabrol8/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+</p>
 
 ## ⚡ Connect with Me
 
@@ -107,4 +185,12 @@ I'm a software developer and machine learning enthusiast who loves bridging the 
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" alt="thanks for visiting" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! Let's build something amazing together 🚀</b>
 </p>
