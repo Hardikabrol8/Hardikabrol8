@@ -150,13 +150,11 @@ I like taking a project end-to-end — from a rough idea, to a trained model or 
     <tr>
       <td colspan="2" align="center">
         <br />
-        <img src="https://streak-stats.demolab.com/?user=Hardikabrol8&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+        <img src="./profile/streak.svg" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center"><sub>Stats & top languages are generated daily by <a href="./.github/workflows/grs.yml">GitHub Actions</a> and committed as static SVGs, so they don't depend on any third-party server's uptime.</sub></p>
 
 ## 🐍 Contribution Snake
 
