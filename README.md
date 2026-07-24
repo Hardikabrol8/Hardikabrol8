@@ -1,6 +1,10 @@
 # ⚡ Welcome to my Digital Space! I'm Hardik Abrol
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hardikabrol8&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&background=101010&width=600&center=true&vCenter=true&lines=Computer+Engineering+Student;Full-Stack+%2B+ML+Builder;Machine+Learning+Explorer;Generative+AI+Builder;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
 
